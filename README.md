@@ -16,4 +16,4 @@ Nodemcu V2 RPM Generator
   <li>3. 有些轉速表如 FZR 是負綠觸發，輸出建議可以改成交流輸出，或調整電位差</li>
 </ul>
 <br>
-<img src="screenshot/s1.png">
+<img src="screenshot/s3.png">
