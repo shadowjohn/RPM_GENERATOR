@@ -17,3 +17,6 @@ Nodemcu V2 RPM Generator
 </ul>
 <br>
 <img src="screenshot/s3.png">
+<br>
+<br>
+詳細心得參考：https://3wa.tw/blog/blog.php?id=1928
